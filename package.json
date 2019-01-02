@@ -1,0 +1,25 @@
+{
+  "name": "mastron-components",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "dev": "docz dev",
+    "build": "docz build"
+  },
+  "dependencies": {
+    "@emotion/babel-preset-css-prop": "^10.0.5",
+    "@emotion/core": "^10.0.5",
+    "@emotion/styled": "^10.0.5",
+    "docz": "^0.13.7",
+    "docz-core": "^0.13.7",
+    "react": "^16.7.0",
+    "react-dom": "^16.7.0",
+    "typescript": "^3.2.2"
+  },
+  "devDependencies": {
+    "@types/react": "^16.7.18",
+    "babel-plugin-emotion": "^10.0.5",
+    "docz-theme-default": "^0.13.7"
+  }
+}
